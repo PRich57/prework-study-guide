@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Study Guide, you can read through the notes in each section to get insight on some important concepts taught in Prework. For suggestions on what to study first, open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (MacOS) or by right clicking anywhere on the Webpage and selecting "Inspect" from the drop down menu. A panel should open either below or to the side of the webpage in the browser. From there make sure you are on the "Console" tab at the top of the DevTools panel. Within the console panel you will see a list of topics we learned from Prework along with a suggestion on which topic to study first. Each time the page is refreshed the console panel will use JavaScript to randomly select one of the four study topics listed on the main Webpage.
+To use this Study Guide, you can read through the notes in each section to get insight into some important concepts taught in Prework. For suggestions on what to study first, open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (MacOS) or by right clicking anywhere on the Webpage and selecting "Inspect" from the drop down menu. A panel should open either below or to the side of the webpage in the browser. From there make sure you are on the "Console" tab at the top of the DevTools panel. Within the console panel you will see a list of topics we learned from Prework along with a suggestion on which topic to study first. Each time the page is refreshed the console panel will use JavaScript to randomly select one of the four study topics listed on the main Webpage.
 
 ## Credits
 
